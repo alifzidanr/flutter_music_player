@@ -33,9 +33,10 @@ dependencies:
   cupertino_icons: ^1.0.8 
   permission_handler: ^11.0.0  # For handling permissions
   on_audio_query: ^2.9.0  # For querying audio files
-  just_audio: ^0.9.36  # For audio playback
-  audio_service: ^0.18.12  # For background audio playback
-  path_provider: ^2.1.1  # For working with file paths
+  just_audio: ^0.10.0
+  audio_service: ^0.18.18
+  path_provider: ^2.1.5
+  audio_session: ^0.2.1
 
 dev_dependencies:
   flutter_test:
